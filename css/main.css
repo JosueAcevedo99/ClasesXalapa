@@ -251,6 +251,10 @@ footer p{
         top: -120px;
     }
 
+    .institucion{
+        text-align: center;
+    }
+
 
 }
 /*=========================MEDIA QUERIES PANTALLA EXTRA-SM================================*/
@@ -266,6 +270,9 @@ footer p{
     .icono-wrap{
         flex-wrap:wrap !important;
         justify-content: center !important;
+        text-align: center;
+    }
+    .institucion{
         text-align: center;
     }
 }
