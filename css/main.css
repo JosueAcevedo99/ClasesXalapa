@@ -28,6 +28,10 @@ a{
     text-decoration: none !important;
 }
 
+p{
+    text-align: justify;
+}
+
 
 /*=========================FOOTER================================*/
 
