@@ -49,9 +49,7 @@ footer p{
 
 /* Modal */
 
-.bgmodal{
-    background: url(images/login.jpg) center/cover no-repeat;
- }
+
  .modal-body{
      border-radius: 50px !important;
  }
@@ -275,4 +273,5 @@ footer p{
     .institucion{
         text-align: center;
     }
+
 }
