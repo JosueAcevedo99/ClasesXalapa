@@ -259,6 +259,10 @@ footer p{
         text-align: center;
     }
 
+    /* .roundedcard{
+        border-radius: 15% !important;
+     } */
+
 
 }
 /*=========================MEDIA QUERIES PANTALLA EXTRA-SM================================*/
@@ -279,6 +283,10 @@ footer p{
     .institucion{
         text-align: center;
     }
+
+    /* .roundedcard{
+        border-radius: 50% !important;
+     } */
 
 }
 
