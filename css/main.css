@@ -199,6 +199,12 @@ footer p{
     width: 22rem !important;
     height: 22rem !important;
  }
+
+ .roundedcard{
+    border-radius: 5% !important;
+ }
+
+
 /*=========================MEDIA QUERIES PANTALLA ANCHA================================*/
 
 @media (max-width:1200px){
